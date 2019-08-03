@@ -12,3 +12,4 @@ final 修饰属性：则该类的属性不会进行隐式的初始化（类的�
 
 final 修饰变量，则该变量的值只能赋一次值，即常量
 
+![image](https://github.com/xuekuoL/StudyNote/blob/master/111.jpg)
