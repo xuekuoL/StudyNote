@@ -20,6 +20,5 @@ super关键字在子类内部使用，代表父类对象。
 
 子类构造方法需要调用父类的构造方法时，在子类的构造方法体里最前面的位置：super()
 
-![image](https://github.com/xuekuoL/StudyNote/blob/master/111.jpg)
-nihao
-wohao
+
+
